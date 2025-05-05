@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g id="woodfish" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M100,20 C60,20 30,50 30,90 C30,130 60,160 100,160 C140,160 170,130 170,90 C170,50 140,20 100,20 Z" fill="#8B4513" stroke="#5D2906" stroke-width="4"></path>
+        <path d="M100,40 C70,40 50,60 50,90 C50,120 70,140 100,140 C130,140 150,120 150,90 C150,60 130,40 100,40 Z" fill="#A0522D"></path>
+        <path d="M60,90 L140,90" stroke="#5D2906" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M65,75 L135,75" stroke="#5D2906" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M65,105 L135,105" stroke="#5D2906" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M85,55 L115,55" stroke="#5D2906" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M85,125 L115,125" stroke="#5D2906" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M100,165 L100,180" stroke="#5D2906" stroke-width="4" stroke-linecap="round"></path>
+        <rect x="85" y="180" width="30" height="10" rx="2" fill="#8B4513" stroke="#5D2906" stroke-width="2"></rect>
+    </g>
+</svg> 
